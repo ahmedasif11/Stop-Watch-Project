@@ -79,7 +79,7 @@ function StopWatch() {
       <div className="stop-watch-time">{formatTime()}</div>
       <div className="buttons">
         <button onClick={start} className="start-button">
-          Startt
+          Start
         </button>
         <button onClick={stop} className="stop-button hidden">
           Stop
